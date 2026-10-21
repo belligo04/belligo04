@@ -1,1 +1,1 @@
-![Y Combinator](https://coolreadme.xyz/api/yc-card?user=belligo04&tagline=Acquired+by+a+great+team.+Thanks+to+everyone+who+supported+us.&batch=STEALTH&status=acquired&sector=AI+Agents&funding=Acquired)
+![AI Tool Card](https://coolreadme.xyz/api/ai-card?tool=claude&role=builder&user=belligo04&since=2023&tagline=Shipped%2047%20PRs%20with%20AI%20this%20year)
