@@ -1,3 +1,1 @@
-<p align="center">
 ![Netflix](https://coolreadme.xyz/api/netflix-card?title=Breaking%20Bad&style=hero&user=belligo04&synopsis=In%20a%20world%20where%20memories%20are%20traded%20like%20currency%2C%20a%20rogue%20data-broker%20discovers%20an%20encrypted%20file%20that%20could%20collapse%20the%20global%20neural%20network.&cast=Winona%20Ryder%2C%20David%20Harbour&genre=Crime%2C%20Drama&rating=TV-MA&match=99&year=2025&season=S1&episode=E4%3A%20The%20Glitch&duration=47m&progress=52&progressTime=24%3A15&quality=4K&img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FggFHVNu6YYI5L9pCfOacjizRGt.jpg)
-</p>
