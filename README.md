@@ -6,24 +6,17 @@
 
 <br/>
 
-<!-- Typing Headline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&color=9E7D3B&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Systems+%C2%B7+Applied+AI;Building+Fintech+Services+%26+ML+Pipelines" alt="Typing" />
+<!-- Hacker News Card (Show HN featuring your real GitHub projects) -->
+<a href="https://github.com/belligo04">
+  <img src="https://coolreadme.xyz/api/hackernews-card?kind=show&title=Banking+App+(Spring+Boot)+%26+Deepfake+Detection+(Python)&url=github.com/belligo04&user=belligo04&points=204&comments=48&rank=1&age=today" width="580" alt="Hacker News Card" />
+</a>
 
 <br/><br/>
 
-<!-- coolreadme.xyz Cards (Symmetric Grid) -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://coolreadme.xyz/api/pinterest-card?title=Featured%20Projects&sub=open%20source%20now&user=belligo04&skills=Java%2CSpringBoot%2CPython%2CReact" width="100%" alt="Pinterest Card" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://coolreadme.xyz/api/yc-card?company=belligo04&batch=W26&status=building&tagline=Fintech+Services+%26+Deepfake+Detection&sector=AI+%C2%B7+Backend" width="100%" alt="YC Card" />
-    </td>
-  </tr>
-</table>
+<!-- Typing Headline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&color=9E7D3B&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Backend+Systems+%C2%B7+Applied+AI;Building+Fintech+Services+%26+Computer+Vision" alt="Typing" />
 
-<br/>
+<br/><br/>
 
 <!-- GitHub Stats Card -->
 <img src="https://coolreadme.xyz/api/stats-card?user=belligo04&accent=%23EED4A1" width="500" alt="GitHub Stats" />
@@ -32,12 +25,12 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Repositories
 
 <br/>
 
 **[banking-app](https://github.com/belligo04/banking-app)**  
-*Banking application architecture and secure financial backend services developed with **Java** and **Spring Boot**.*
+*Banking application architecture and secure transaction services built with **Java** & **Spring Boot**.*
 
 <br/>
 
