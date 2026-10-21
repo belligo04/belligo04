@@ -1,7 +1,18 @@
+name: GitHub Readme YouTube Cards
 
-### Connect
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
-![Connect with belligo04](https://coolreadme.xyz/api/social-card?user=belligo04&title=Let's%20talk&sub=DMs%20open&skills=&style=instagram)
+permissions:
+  contents: write
 
-
-<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/belligo04) — one-click GitHub README cards.</sub>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: 
+          max_videos: 3
