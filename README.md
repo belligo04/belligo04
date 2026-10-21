@@ -1,1 +1,1 @@
-![Y Combinator](https://coolreadme.xyz/api/yc-card?user=belligo04&status=hiring)
+![Y Combinator](https://coolreadme.xyz/api/yc-card?user=belligo04&tagline=Acquired+by+a+great+team.+Thanks+to+everyone+who+supported+us.&batch=STEALTH&status=acquired&sector=AI+Agents&funding=Acquired)
