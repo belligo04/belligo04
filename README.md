@@ -1,52 +1,48 @@
-<!-- Banner: nếu có ảnh banner riêng, thay thẻ img bên dưới bằng: <img src="./assets/banner.png" alt="banner" width="100%" /> -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:e8c27a&height=200&section=header&text=just%20a%20guy%20building...&fontSize=40&fontColor=e8c27a&fontAlignY=40&animation=fadeIn" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:eed4a1&height=180&section=header&text=Samuel%20Vo&fontSize=38&fontColor=24292f&fontAlignY=38" alt="header" width="100%" />
 
-<!-- Dòng chữ gõ tự động -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=E8C27A&center=true&vCenter=true&width=420&lines=%E2%9C%A8+just+to+ma+te;Frontend+developer;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS" alt="typing" />
-
-<br/>
-
-✦ ⋆ ˚｡⋆ 🐈‍⬛ ⋆｡˚ ⋆ ✦
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=9E7D3B&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Building+clean+and+modern+web+interfaces" alt="typing" />
 
 </div>
 
-## 👋 Hi, mình là Samu3lv0
+### Giới thiệu
 
-- 🎓 Sinh viên Công nghệ Thông tin
-- 💻 Đang làm frontend với React, TypeScript, Tailwind CSS
-- 🌱 Đang học, đang build, commit mỗi ngày
-- 📍 Việt Nam
+- **Định hướng:** Frontend Developer (React, TypeScript, Tailwind CSS)
+- **Học vấn:** Sinh viên ngành Công nghệ Thông tin
+- **Khu vực:** Việt Nam
 
-## 🛠️ Tech stack
+---
 
-<!-- Badge công nghệ, nền tối cho hợp tông -->
+### Kỹ năng & Công nghệ
+
 <p>
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=24292f&labelColor=ffffff&color=eed4a1" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=24292f&labelColor=ffffff&color=eed4a1" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-ffffff?style=flat-square&logo=tailwindcss&logoColor=24292f&labelColor=ffffff&color=eed4a1" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=24292f&labelColor=ffffff&color=eed4a1" alt="Git" />
 </p>
 
-## 📊 GitHub stats
+---
 
-<!-- Thẻ thống kê, tông vàng trên nền tối -->
+### Thống kê GitHub
+
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=samuelvo04&show_icons=true&hide_border=false&bg_color=0d1117&title_color=e8c27a&icon_color=e8c27a&text_color=c9d1d9&border_color=30363d" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelvo04&layout=compact&bg_color=0d1117&title_color=e8c27a&text_color=c9d1d9&border_color=30363d" alt="top languages" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=samuelvo04&show_icons=true&hide_border=false&bg_color=ffffff&title_color=9e7d3b&icon_color=eed4a1&text_color=57606a&border_color=eed4a1" alt="GitHub Stats" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelvo04&layout=compact&bg_color=ffffff&title_color=9e7d3b&text_color=57606a&border_color=eed4a1" alt="Top Languages" />
 </p>
 
-## 📫 Liên hệ
+---
+
+### Liên hệ
 
 <p>
   <a href="https://www.linkedin.com/in/vtgh1602">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=ffffff&color=eed4a1" alt="LinkedIn" />
   </a>
   <a href="mailto:samhuyvo04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=eed4a1" alt="Gmail" />
   </a>
 </p>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8c27a,100:0d1117&height=100&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:eed4a1,100:ffffff&height=80&section=footer" alt="footer" width="100%" />
